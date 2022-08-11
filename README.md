@@ -58,7 +58,7 @@
       <h3 align="center">DelMonte.tech</h3>
       <br />
         <a target="_blank" href="https://delmonte.tech">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/wo1vin/wo1vin/blob/main/images/portfolio.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
