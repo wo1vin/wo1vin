@@ -12,7 +12,7 @@
 
 - 👨‍💻 You can see some past projects at [https://delmonte.tech](https://delmonte.tech)
 
-- 💬 Ask me about **software engineering, art & design, or sustainability.**
+- 💬 Ask me about **software engineering roles, art & design, or sustainability.**
 
 - 📫 How to reach me **wolvincraft@gmail.com**
 
