@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Scar</h1>
-<h3 align="center">A software engineer & graphic designer.</h3>
+<img src="https://raw.githubusercontent.com/wo1vin/Portfolio/main/images/DenisseDelMonte-Branding-TwitterHeader.png" width="100%">
 <p align="center">
   <a href="http://delmonte.tech/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=33236E&style=plastic&logo=react&logo-color=white"/>
@@ -23,7 +22,7 @@
       <h3 align="center">Bethel Art Studio</h3>
         <br />
         <a target="_blank" href="https://wo1vin.github.io/BethelArtStudio/">
-            <img src="images/BAS.gif" width="100%" alt="client site"/>
+            <img src="https://github.com/wo1vin/Portfolio/blob/main/images/BAS.gif?raw=true" width="100%" alt="client site"/>
         </a>
         <br />
         <p align="center">
@@ -41,7 +40,7 @@
       <h3 align="center">Elite Rides</h3>
         <br />
       <a target="_blank" href="https://eliterides.netlify.app/">
-            <img src="images/04-EliteRides.gif" width="100%"  alt="Elite Rides"/>
+            <img src="https://github.com/wo1vin/Portfolio/blob/main/images/04-EliteRides.gif?raw=true" width="100%"  alt="Elite Rides"/>
         </a>
         <br />
         <p align="center">
@@ -76,12 +75,11 @@
       <h3 align="center">Aruba Coffee Traders</h3>
         <br />
         <a target="_blank" href="https://aruba-coffee-traders.glitch.me/">
-          <img src="images/02-Aruba-Coffee-Traders.gif" width="100%" alt="Aruba Coffee Traders"/>
+          <img src="https://github.com/wo1vin/Portfolio/blob/main/images/02-Aruba-Coffee-Traders.gif?raw=true" width="100%" alt="Aruba Coffee Traders"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://aruba-coffee-traders.glitch.me/" target="_blank">
+    <a href="https://aruba-coffee-traders.glitch.me/" target="_blank">
     <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
   </a>
       </p>
