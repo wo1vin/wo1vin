@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
   </a>
       </p>
-        <p><strong>JS, Bootstrap, Sass, Node.js, & Express.js</strong> - New website for the mobile paint studio that matches the owners' fun-loving presence.</p>
+        <p><strong>JS, Bootstrap, Sass, Node.js, & Express.js</strong> - New website for the mobile paint studio that matches the owners' fun-loving personality.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Elite Rides</h3>
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
   </a>
       </p>
-        <p><strong>JS, SCSS, & CSS3</strong> - The company website for Elite Rides reflects their modern and stylish brand with a responsive and beautiful site that feels classy at the same time.</p>
+        <p><strong>JS, SCSS, & CSS3</strong> - The company website for Elite Rides reflects their modern and stylish brand by featuring a responsive and classy design.</p>
     </td>
   </tr>
   
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & JS</strong> - Portfolio website that features links to projects, information about me and my skillset, and ways to get in contact.</p>
+        <p><strong>HTML5, CSS3, & JS</strong> - This is my portfolio website where I showcase projects, information about me and my skillset, and ways to contact me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Restorative Spells</h3>
