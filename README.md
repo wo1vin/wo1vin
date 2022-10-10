@@ -21,7 +21,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Bethel Art Studio</h3>
         <br />
-        <a target="_blank" href="https://wo1vin.github.io/BethelArtStudio/">
+        <a target="_blank" href="https://bethelarts.netlify.app/">
             <img src="https://github.com/wo1vin/Portfolio/blob/main/images/BAS.gif?raw=true" width="100%" alt="client site"/>
         </a>
         <br />
@@ -30,7 +30,7 @@
   <a href="https://github.com/wo1vin/BethelArtStudio" target="_blank">
     <img src="https://img.shields.io/badge/-REPO-33236E"/>
   </a>  
-  <a href="https://wo1vin.github.io/BethelArtStudio/" target="_blank">
+  <a href="https://bethelarts.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
   </a>
       </p>
