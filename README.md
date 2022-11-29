@@ -142,8 +142,6 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonnoel&show_icons=true&locale=en&layout=compact" alt="wo1vin" /></p>
-
 <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wo1vin&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&background=2C1E5F&ring=E961A4&fire=E961A4&sideNums=E961A4" alt="wo1vin" /></p>
 <p align="center">
   <a href="http://delmonte.tech/" target="_blank">
