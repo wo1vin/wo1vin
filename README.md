@@ -72,21 +72,21 @@
         <p><strong>HTML5, CSS3, & JS</strong> - This is my portfolio website where I showcase projects, information about me and my skillset, and ways to contact me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Restorative Spells</h3>
+      <h3 align="center">Pet Pair</h3>
         <br />
-        <a target="_blank" href="https://restorative-spells.herokuapp.com/">
-          <img src="https://github.com/wo1vin/Portfolio/blob/main/images/restorativeSpells.gif?raw=true" width="100%" alt="Restorative Spells"/>
+        <a target="_blank" href="https://wo1vin.github.io/petpair/">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/51f5b444-3343-46b2-8832-a0d5a519f7cf/PetPair-demo.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221223T221744Z&X-Amz-Expires=86400&X-Amz-Signature=46dfbb23d9476b57014e05ecf4ac3184dde65128eb63c23c144449026dde6cd4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22PetPair-demo.gif%22&x-id=GetObject" width="100%" alt="Pet Pair GIF"/>
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/wo1vin/affirmations" target="_blank">
+          <a href="https://github.com/wo1vin/petpair" target="_blank">
             <img src="https://img.shields.io/badge/-REPO-33236E"/>
           </a>  
-          <a href="https://restorative-spells.herokuapp.com/" target="_blank">
+          <a href="https://wo1vin.github.io/petpair/" target="_blank">
             <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
           </a>
         </p>
-        <p><strong>JS, Node, Express, MongoDB, & CSS3</strong> - This is a CRUD app that allows users to submit, like, and delete quotes, words of affirmation, and well-meaning advice.</p>
+        <p><strong>JS, CSS3, HTML5</strong> - This is an API interface that helps users focus on individual pets that are ready for adoption.</p>
     </td>
   </tr>
 </table>
