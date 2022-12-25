@@ -75,7 +75,7 @@
       <h3 align="center">Pet Pair</h3>
         <br />
         <a target="_blank" href="https://wo1vin.github.io/petpair/">
-          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/51f5b444-3343-46b2-8832-a0d5a519f7cf/PetPair-demo.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221223T221744Z&X-Amz-Expires=86400&X-Amz-Signature=46dfbb23d9476b57014e05ecf4ac3184dde65128eb63c23c144449026dde6cd4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22PetPair-demo.gif%22&x-id=GetObject" width="100%" alt="Pet Pair GIF"/>
+          <img src="https://delmonte.tech/images/PetPair.gif" width="100%" alt="Pet Pair GIF"/>
         </a>
         <br />
         <p align="center">
