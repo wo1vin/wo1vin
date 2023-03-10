@@ -95,15 +95,11 @@
 
 - 🔭 I’m currently working on **a full-stack web app that brings the idea of open source software to sustainability solutions.**
 
-- 🌱 I’m currently learning **to become an En-ROADS Climate Ambassador.**
-
-- 👯 I’m looking to collaborate on **climate action.**
-
-- 🤝 I’m looking for help with **connections and networking.**
+- 🤝 I’m looking for help with **finding a new role.**
 
 - 👨‍💻 You can see some past projects at [https://delmonte.tech](https://delmonte.tech)
 
-- 💬 Talk to me about **software engineering roles.**
+- 💬 Talk to me about **music, hobbies, and ideas.**
 
 - 📫 How to reach me **wolvincraft@gmail.com**
 
