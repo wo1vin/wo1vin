@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/wo1vin/Portfolio/main/images/DenisseDelMonte-Branding-TwitterHeader.png" width="100%">
 <p align="center">
-  <a href="http://delmonte.tech/" target="_blank">
+  <a href="https://wo1vin.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=33236E&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/denisse-del-monte-6884861a5/" target="_blank">
@@ -8,9 +8,6 @@
   </a>
   <a href="https://twitter.com/Wo1vin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=33236E&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/wo1vin" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=ba2c73&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
@@ -55,9 +52,9 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DelMonte.tech</h3>
+      <h3 align="center">Portfolio</h3>
       <br />
-        <a target="_blank" href="https://delmonte.tech">
+        <a target="_blank" href="https://wo1vin.github.io/Portfolio/">
           <img src="https://github.com/wo1vin/wo1vin/blob/main/images/portfolio.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
       <br />
@@ -65,7 +62,7 @@
   <a href="https://github.com/wo1vin/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-REPO-33236E"/>
   </a>  
-  <a href="https://delmonte.tech/" target="_blank">
+  <a href="https://wo1vin.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
   </a>
       </p>
@@ -91,21 +88,6 @@
   </tr>
 </table>
 
-<h1 align="center">About me:</h1>
-
-- 🔭 I’m currently working on **a full-stack web app that brings the idea of open source software to sustainability solutions.**
-
-- 🤝 I’m looking for help with **finding a new role.**
-
-- 👨‍💻 You can see some past projects at [https://delmonte.tech](https://delmonte.tech)
-
-- 💬 Talk to me about **music, hobbies, and ideas.**
-
-- 📫 How to reach me **wolvincraft@gmail.com**
-
-- 📄 Read about my experience [https://www.linkedin.com/in/wo1vin/](https://www.linkedin.com/in/wo1vin/)
-
-- ⚡ Fun fact: **I was born in the Dominican Republic and I can speak Spanish and French.**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
@@ -140,7 +122,7 @@
 
 <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wo1vin&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&background=2C1E5F&ring=E961A4&fire=E961A4&sideNums=E961A4" alt="wo1vin" /></p>
 <p align="center">
-  <a href="http://delmonte.tech/" target="_blank">
+  <a href="https://wo1vin.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=33236E&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/denisse-del-monte-6884861a5/" target="_blank">
@@ -148,8 +130,5 @@
   </a>
   <a href="https://twitter.com/Wo1vin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=33236E&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/wo1vin" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=ba2c73&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
