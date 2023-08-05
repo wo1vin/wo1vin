@@ -66,13 +66,13 @@
     <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & JS</strong> - This is my portfolio website where I showcase projects, information about me and my skillset, and ways to contact me.</p>
+        <p><strong>HTML5, CSS3, & JS</strong> - This is my portfolio website where I showcase projects, information about me and my skill set, and ways to contact me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Pet Pair</h3>
         <br />
         <a target="_blank" href="https://wo1vin.github.io/petpair/">
-          <img src="https://delmonte.tech/images/PetPair.gif" width="100%" alt="Pet Pair GIF"/>
+          <img src="https://github.com/wo1vin/petpair/blob/main/assets/ezgif.com-optimize.gif?raw=true" width="100%" alt="Pet Pair GIF"/>
         </a>
         <br />
         <p align="center">
