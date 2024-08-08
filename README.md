@@ -1,13 +1,10 @@
 <img src="https://raw.githubusercontent.com/wo1vin/Portfolio/main/images/DenisseDelMonte-Branding-TwitterHeader.png" width="100%">
 <p align="center">
-  <a href="https://wo1vin.github.io/Portfolio/" target="_blank">
+  <a href="https://del-monte.my.canva.site/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=33236E&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/denisse-del-monte-6884861a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/wo1vin/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ba2c73&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/Wo1vin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=33236E&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
 
@@ -90,14 +87,11 @@
 
 <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wo1vin&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&background=2C1E5F&ring=E961A4&fire=E961A4&sideNums=E961A4" alt="wo1vin" /></p>
 <p align="center">
-  <a href="https://wo1vin.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=33236E&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://del-monte.my.canva.site/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=33236E&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/denisse-del-monte-6884861a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/wo1vin/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ba2c73&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/Wo1vin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=33236E&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
 
