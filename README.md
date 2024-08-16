@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/wo1vin/Portfolio/main/images/DenisseDelMonte-Branding-TwitterHeader.png" width="100%">
 <p align="center">
-  <a href="https://wo1vin.github.io/portfolio-2/" target="_blank">
+  <a href="https://wo1vin.github.io/delmonte/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=33236E&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/wo1vin/" target="_blank">
@@ -51,15 +51,15 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
       <br />
-        <a target="_blank" href="https://wo1vin.github.io/portfolio-2/">
-          <img src="https://github.com/wo1vin/portfolio-2/raw/main/assets/readme-img.png" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://wo1vin.github.io/delmonte/">
+          <img src="https://github.com/wo1vin/delmonte/raw/main/assets/DelMonte-meta.webp" width="100%" alt="Portfolio thumbnail"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/wo1vin/portfolio-2/" target="_blank">
+  <a href="https://github.com/wo1vin/delmonte/" target="_blank">
     <img src="https://img.shields.io/badge/-REPO-33236E"/>
   </a>  
-  <a href="https://wo1vin.github.io/portfolio-2/" target="_blank">
+  <a href="https://wo1vin.github.io/delmonte/" target="_blank">
     <img src="https://img.shields.io/badge/-WEBSITE-ba2c73"/>
   </a>
       </p>
@@ -87,7 +87,7 @@
 
 <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wo1vin&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&background=2C1E5F&ring=E961A4&fire=E961A4&sideNums=E961A4" alt="wo1vin" /></p>
 <p align="center">
-  <a href="https://wo1vin.github.io/portfolio-2/" target="_blank">
+  <a href="https://wo1vin.github.io/delmonte/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=33236E&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/wo1vin/" target="_blank">
