@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wo1vin/Portfolio/main/images/DenisseDelMonte-Branding-TwitterHeader.png" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/wo1vin/Portfolio/main/images/DenisseDelMonte-Branding-TwitterHeader.png" width="100%"> -->
 <p align="center">
   <a href="https://wo1vin.github.io/delmonte/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=33236E&style=plastic&logo=react&logo-color=white"/>
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -83,18 +83,18 @@
         <p><strong>JS, CSS3, HTML5</strong> - This is an API interface that helps users focus on individual pets that are ready for adoption.</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wo1vin&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&background=2C1E5F&ring=E961A4&fire=E961A4&sideNums=E961A4" alt="wo1vin" /></p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://wo1vin.github.io/delmonte/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=33236E&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/wo1vin/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ba2c73&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-</p>
+</p> -->
 
-  **#30NitesOfCode:**
+  <!-- **#30NitesOfCode:**
   [Check out my progress!](https://www.codedex.io/@wolvin/30-nites-of-code)  
-  ![@wolvin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=wolvin)
+  ![@wolvin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=wolvin) -->
